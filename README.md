@@ -8,7 +8,8 @@ The dataset is available [here](https://www.kaggle.com/datasets/robikscube/fligh
 
 Colab notebook with preprocessing code:
 
-Colab notebook with predictive analysis code:
+Colab notebook with predictive analysis code: ForecastNumFlights.ipynb
+ - 'combinedFlightsperDay.snappy.parquet' contains the dataset of flight records combined per day, download it and run the ForecastNumFlights notebook.
 
 Tableau dashboard file:
 
