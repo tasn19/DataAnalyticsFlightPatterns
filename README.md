@@ -12,15 +12,15 @@ Few examples  of the charts we created in Tableau:
 
 <img width="546" alt="3 periods" src="https://user-images.githubusercontent.com/127549357/230979687-a5c5c183-1218-43f1-af07-17caa7942813.png">
 
-Map chart showing arrivals in 2018:
+<b>Map chart showing arrivals in 2018:</b>
 
 ![AirportArrivals2018_1cropped(1)](https://user-images.githubusercontent.com/127549357/230979870-3e76bd34-f391-4de9-94be-ef16eb620373.png)
 
-Chart showing cancellations per 1000 flights for selected airlines:
+<b>Chart showing cancellations per 1000 flights for selected airlines:</b>
 
 <img width="535" alt="Cancellations per 1000 flights" src="https://user-images.githubusercontent.com/127549357/230979896-d223a937-ffa5-439c-8ceb-62d9c1f1eb50.png">
 
-Bar chart showing Top 10 airlines with most number of flights:
+<b>Bar chart showing Top 10 airlines with most number of flights:</b>
 
 <img width="546" alt="Top 10 with flights" src="https://user-images.githubusercontent.com/127549357/230979921-813dc5ce-d56e-4a88-b193-02b23afffaf9.png">
 
