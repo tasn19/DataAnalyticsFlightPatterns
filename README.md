@@ -11,7 +11,7 @@ Colab notebook with preprocessing code:
 Colab notebook with predictive analysis code: ForecastNumFlights.ipynb
  - 'combinedFlightsperDay.snappy.parquet' contains the dataset of flight records combined per day, download it and run the ForecastNumFlights notebook.
 
-Tableau dashboard file is available [here](https://yuoffice-my.sharepoint.com/:f:/r/personal/msivakum_yorku_ca/Documents/Data%20Analytics%20-Tableau?csf=1&web=1&e=Inhtzv).
+Tableau dashboard file is available [here](https://yuoffice-my.sharepoint.com/:f:/g/personal/msivakum_yorku_ca/Eiasj8TU-bhJhiR5PwJm9E4B8amwsVAE0k3KCCUeP62cng?e=LypfTh).
 
 Project report:
 
