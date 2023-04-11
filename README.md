@@ -6,14 +6,14 @@ In this project, we examine the impact of the Covid-19 pandemic on domestic flig
 
 The dataset is available [here](https://www.kaggle.com/datasets/robikscube/flight-delay-dataset-20182022?select=Combined_Flights_2020.csv).
 
-Colab notebook with preprocessing code:
+Dataset preprocessing code: pre_processing_flight.py
 
 Colab notebook with predictive analysis code: ForecastNumFlights.ipynb
  - 'combinedFlightsperDay.snappy.parquet' contains the dataset of flight records combined per day, download it and run the ForecastNumFlights notebook.
 
 Tableau dashboard file is available [here](https://yuoffice-my.sharepoint.com/:f:/g/personal/msivakum_yorku_ca/Eiasj8TU-bhJhiR5PwJm9E4B8amwsVAE0k3KCCUeP62cng?e=LypfTh). Download the file and open with a Tableau Desktop software. All the charts and dashboards will be visible. 
 
-Project report:
+Project report: DA_Project_Report.pdf
 
 ## Summary
 Through our data analysis, we were able to identify trends in flight patterns across airlines and years. With our Tableau dashboard, we compared number of flights, percentage delays and cancellations across years to identify  peak travel months and the best year for airlines in terms of number of flights. We explored flight patterns before, during and after the peak of the COVID-19 pandemic. A key finding was some airlines went out of business during the pandemic period despite having less delays, and this highlights the importance of analysing several flight attributes before drawing conclusions.
